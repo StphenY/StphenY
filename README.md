@@ -10,4 +10,4 @@ Welcome to my profile! I'm a student at St. Andrews College and to learn more ab
 -=+Birthday+=-
 - March 3rd 
 
-![Me](./Arson.png) 
+![Me](./Arson.PNG) 
